@@ -1,0 +1,6 @@
+@OvejaStore_HostAddress = http://localhost:5083
+
+GET {{OvejaStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
