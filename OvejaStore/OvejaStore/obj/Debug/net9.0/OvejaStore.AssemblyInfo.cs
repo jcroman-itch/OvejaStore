@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OvejaStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a293b9223b08a0aa78db2b68688c4bb7089feb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ba435552abeeac9023d7bd4ef8ad5d05390ad51")]
 [assembly: System.Reflection.AssemblyProductAttribute("OvejaStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OvejaStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
